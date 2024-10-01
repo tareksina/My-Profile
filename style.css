@@ -1,0 +1,129 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Fredoka", sans-serif;
+    
+}
+h1{
+    margin-left: 50px;
+    font-size: 35px;
+    padding: 0px;
+}
+h2{
+    margin-left: 50px;
+    font-size: 40px;
+}
+#patnar{
+    color: orange;
+}
+h3{
+    margin-left: 50px;
+    font-size: 18px;
+}
+p{
+    width: 600px;
+    margin-left: 50px;
+}
+#btn{
+    margin-left: 50px;
+    width: 120px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 9px;
+}
+img{
+    position:absolute;
+    width:800px;
+    height: 570px;
+    left: 800px;
+    top: -60px;
+}
+.cats{
+    width: 200px;
+    height: 100px;
+    top: 430px;
+    left: 1130px;
+    background-image: url(cats.png);
+    position: absolute;
+}
+#hello-img{
+    position: absolute;
+    left: -60px;
+    padding: 0px;
+    
+    margin-top:500px;
+}
+.Drime{
+    position: absolute;
+    left: 730px;
+    top: 500px;
+    
+}
+.Drime h1{
+    font-size: 45px;
+}
+.Drime h2{
+    font-size: 20px;
+}
+#button{
+    position: absolute;
+    left: 50px;
+    width: 190px;
+    height: 40px;
+    background-color: rgb(255, 149, 0);
+    color: white;
+    border-radius: 9px;
+}
+.truo{
+    position: absolute;
+    top: 1000px;
+    
+}
+
+.truo h1{
+    font-size: 45px;
+}
+
+.box1 {
+    position: absolute;
+    top: 1100px;
+    left: 90px;
+}
+.box1 h3{
+    font-size: 20px;
+   color: orange;
+}
+.box2{
+    position: absolute;
+    left: 680px;
+    top: -0;
+    
+}
+.box1{
+    box-shadow: 10px 10px 30px gray;
+}
+
+.box2{
+    box-shadow: 10px 10px 30px gray;
+}
+.box1{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightSalmon, tomato);
+    border-image-slice: 1;
+    border-radius: 9px;
+}
+.box2{
+    border-right: 7px solid;
+    border-image:linear-gradient(blue, cyan) ;
+    border-image-slice: 1;
+    border-radius: 9px;
+    
+}
+footer{
+    position: absolute;
+    top: 1400px;
+}
+
+
